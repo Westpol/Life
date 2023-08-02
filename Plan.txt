@@ -1,0 +1,8 @@
+All Citizens are described by a List that is contained inside one big List.
+At the Beginning, this List is read, and at the End this list is saved to a text file.
+
+(No reproduction is planned so far)
+
+The list will contain the following data:
+
+[age, wealth, political left, political center, political right
