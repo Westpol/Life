@@ -16,7 +16,7 @@ def window_init():
 
 def main_loop():
     while 1:
-        pass
+        pygame.event.pump()
 
 
 if __name__ == "__main__":
